@@ -1,4 +1,4 @@
-# tensorflow-timeseries-essentials
+# Tensorflow-Timeseries-Essentials
 
 These scripts show how to implement LSTM variants to accomplish a variety of basic sequencing modeling tasks.  
 This is less focused on the actual models, but instead aimed at demonstrating the basic preprocessing involved.  
